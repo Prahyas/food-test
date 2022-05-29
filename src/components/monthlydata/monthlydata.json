@@ -1,0 +1,46 @@
+{
+  "collectionName": "components_monthlydata_monthlydata",
+  "info": {
+    "displayName": "monthlydata",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "shrawan": {
+      "type": "string"
+    },
+    "bhadra": {
+      "type": "string"
+    },
+    "ashwin": {
+      "type": "string"
+    },
+    "kartik": {
+      "type": "string"
+    },
+    "mangsir": {
+      "type": "string"
+    },
+    "poush": {
+      "type": "string"
+    },
+    "magh": {
+      "type": "string"
+    },
+    "falgun": {
+      "type": "string"
+    },
+    "chaitra": {
+      "type": "string"
+    },
+    "baisakh": {
+      "type": "string"
+    },
+    "jestha": {
+      "type": "string"
+    },
+    "ashar": {
+      "type": "string"
+    }
+  }
+}

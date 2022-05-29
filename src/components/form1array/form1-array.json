@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_form1array_form1_arrays",
+  "info": {
+    "displayName": "form1-array",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "khadyanna": {
+      "type": "string"
+    },
+    "months": {
+      "displayName": "monthlydata",
+      "type": "component",
+      "repeatable": false,
+      "component": "monthlydata.monthlydata"
+    }
+  }
+}
