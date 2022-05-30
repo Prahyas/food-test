@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-05-29T10:45:23.892Z"
+    "x-generation-date": "2022-05-30T09:07:20.154Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -97,40 +97,40 @@
                                           "type": "string"
                                         },
                                         "shrawan": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "bhadra": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "ashwin": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "kartik": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "mangsir": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "poush": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "magh": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "falgun": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "chaitra": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "baisakh": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "jestha": {
-                                          "type": "string"
+                                          "type": "integer"
                                         },
                                         "ashar": {
-                                          "type": "string"
+                                          "type": "integer"
                                         }
                                       }
                                     }
@@ -740,40 +740,40 @@
                                         "type": "string"
                                       },
                                       "shrawan": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "bhadra": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "ashwin": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "kartik": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "mangsir": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "poush": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "magh": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "falgun": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "chaitra": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "baisakh": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "jestha": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "ashar": {
-                                        "type": "string"
+                                        "type": "integer"
                                       }
                                     }
                                   }
@@ -1266,40 +1266,40 @@
                               "type": "object",
                               "properties": {
                                 "shrawan": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "bhadra": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "ashwin": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "kartik": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "mangsir": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "poush": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "magh": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "falgun": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "chaitra": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "baisakh": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "jestha": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "ashar": {
-                                  "type": "string"
+                                  "type": "integer"
                                 }
                               }
                             }
@@ -1390,40 +1390,40 @@
                                         "type": "string"
                                       },
                                       "shrawan": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "bhadra": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "ashwin": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "kartik": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "mangsir": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "poush": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "magh": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "falgun": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "chaitra": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "baisakh": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "jestha": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "ashar": {
-                                        "type": "string"
+                                        "type": "integer"
                                       }
                                     }
                                   }
@@ -1942,40 +1942,40 @@
                                         "type": "string"
                                       },
                                       "shrawan": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "bhadra": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "ashwin": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "kartik": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "mangsir": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "poush": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "magh": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "falgun": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "chaitra": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "baisakh": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "jestha": {
-                                        "type": "string"
+                                        "type": "integer"
                                       },
                                       "ashar": {
-                                        "type": "string"
+                                        "type": "integer"
                                       }
                                     }
                                   }
@@ -2479,40 +2479,40 @@
                               "type": "object",
                               "properties": {
                                 "shrawan": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "bhadra": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "ashwin": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "kartik": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "mangsir": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "poush": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "magh": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "falgun": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "chaitra": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "baisakh": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "jestha": {
-                                  "type": "string"
+                                  "type": "integer"
                                 },
                                 "ashar": {
-                                  "type": "string"
+                                  "type": "integer"
                                 }
                               }
                             }
